@@ -1,18 +1,14 @@
-# React Three Fiber Vite Starter Template
+# 3D TV
+
+> [!WARNING]
+> This project is still in development and may not work as expected.
 
 ![Product Screenshot](/public/screenshot.png)
 
 ### Built With
 
-- [pnpm](https://pnpm.io/)
-- [React](https://reactjs.org)
-- [Nodejs](https://nodejs.org/)
-- [Threejs](https://threejs.org/)
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber)
-- [Drei](https://github.com/pmndrs/drei)
-- [Vite](https://vitejs.dev/)
-- [typescript](https://www.typescriptlang.org/)
-- [eslint](https://eslint.org/)
+- [Blender](https://www.blender.org/)
+- [R3F-Vite-Starter-Template](https://github.com/jeffrey-omega/R3F-Vite-Starter-Template)
 
 ### Installation
 
