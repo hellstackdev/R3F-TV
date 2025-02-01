@@ -10,7 +10,11 @@ function Loader() {
 
 function App() {
   return (
-    <Canvas shadows camera={{ position: [0, 0, 10], fov: 50 }}>
+    <Canvas
+      shadows
+      gl={{ antialias: true, powerPreference: "high-performance" }}
+      camera={{ position: [0, 0, 1.5], fov: 50 }}
+    >
       <Suspense fallback={<Loader />}>
         <Experience />
       </Suspense>
