@@ -5,7 +5,7 @@ import { Suspense } from "react";
 
 function Loader() {
   const { progress } = useProgress();
-  return <Html center>{progress} % loaded</Html>;
+  return <Html center>{progress.toFixed(2)} % loaded</Html>;
 }
 
 function App() {
