@@ -7,10 +7,11 @@ export const Studio = () => {
       <color attach="background" args={["#191920"]} />
       <fog attach="fog" args={["#191920", 0, 15]} />
       <OrbitControls
-        minDistance={6}
+        minDistance={1}
         maxDistance={7.5}
         //autoRotate
         //autoRotateSpeed={-0.9}
+        zoomToCursor={true}
         target={[0, 0.5, 0]}
         minPolarAngle={1.3}
         maxPolarAngle={Math.PI / 2}
@@ -21,7 +22,7 @@ export const Studio = () => {
         castShadow
         shadow-mapSize={[256, 256]}
         shadow-camera-far={25}
-        intensity={25}
+        intensity={10}
         shadow-bias={-0.0001}
         shadow-camera-left={-5}
       >
