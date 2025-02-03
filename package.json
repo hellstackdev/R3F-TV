@@ -1,6 +1,6 @@
 {
-  "name": "r3f-vite-starter",
-  "description": "A starter template for React Three Fiber with Vite",
+  "name": "r3f-tv",
+  "description": "3D TV with React Three Fiber",
   "keywords": [
     "react",
     "three",
