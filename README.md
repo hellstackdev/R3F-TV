@@ -1,33 +1,14 @@
-<style>
-   #images-wrapper {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-   }
-
-   #image-hero {
-      display: flex;
-      justify-content: center;
-   }
-
-   #images-row {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-   }
-</style>
-
 # 3D TV
 
 > [!WARNING]
 > This project is still in development and may not work as expected.
 
-<div id="images-wrapper">
-   <div id="image-hero">
+<div style="display: flex; flex-direction: column; justify-content: center;">
+   <div style="display: flex; justify-content: center;">
       <img src="./public/screenshot.png" width="100%" height="100%" />
    </div>
    </br>
-   <div id="images-row">
+   <div style="display: flex; flex-direction: row; justify-content: space-between;">
       <img src="./public/screenshot.png" width="33%" />
       <img src="./public/screenshot.png" width="33%" />
       <img src="./public/screenshot.png" width="33%" />
