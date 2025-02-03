@@ -3,16 +3,12 @@
 > [!WARNING]
 > This project is still in development and may not work as expected.
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
-   <div style="display: flex; justify-content: center;">
-      <img src="./public/screenshot.png" width="100%" height="100%" />
-   </div>
-   </br>
-   <div style="display: flex; flex-direction: row; justify-content: space-between;">
-      <img src="./public/screenshot.png" width="33%" />
-      <img src="./public/screenshot.png" width="33%" />
-      <img src="./public/screenshot.png" width="33%" />
-   </div>
+![Hero Image](./public/screenshot.png)
+
+<div align="center">
+   <img src="./public/screenshot1.png" width="32%">
+   <img src="./public/screenshot2.png" width="32%">
+   <img src="./public/screenshot3.png" width="32%">
 </div>
 
 ### Built With
