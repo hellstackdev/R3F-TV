@@ -1,9 +1,38 @@
+<style>
+   #images-wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+   }
+
+   #image-hero {
+      display: flex;
+      justify-content: center;
+   }
+
+   #images-row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+   }
+</style>
+
 # 3D TV
 
 > [!WARNING]
 > This project is still in development and may not work as expected.
 
-![Product Screenshot](/public/screenshot.png)
+<div id="images-wrapper">
+   <div id="image-hero">
+      <img src="./public/screenshot.png" width="100%" height="100%" />
+   </div>
+   </br>
+   <div id="images-row">
+      <img src="./public/screenshot.png" width="33%" />
+      <img src="./public/screenshot.png" width="33%" />
+      <img src="./public/screenshot.png" width="33%" />
+   </div>
+</div>
 
 ### Built With
 
