@@ -14,7 +14,7 @@
   <p align="center">
     3D TV with React Three Fiber.
     <br />
-    <a href="https://r3-f-tv.vercel.app/">View Demo</a>
+    <a href="https://r3f-tv.vercel.app/">View Demo</a>
     &middot;
     <a href="https://github.com/jeffrey-omega/R3F-TV/issues/new?labels=bug">Report Bug</a>
     &middot;
