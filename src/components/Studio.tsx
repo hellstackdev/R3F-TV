@@ -20,7 +20,7 @@ export const Studio = () => {
       <directionalLight
         position={[-0.9, 2, 2.5]}
         castShadow
-        shadow-mapSize={[256, 256]}
+        shadow-mapSize={[2048, 2048]}
         shadow-camera-far={25}
         intensity={10}
         shadow-bias={-0.0001}
