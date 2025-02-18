@@ -77,3 +77,9 @@ To run tests, run the following command
 
 > [!WARNING]
 > This project is still in development and may not work as expected.
+
+## License
+
+Unless stated otherwise, all trademarks, trade names, logos, images, product names, and company names in this project belong to their respective owners. 
+Their inclusion does not grant permission for use beyond informational purposes as intended by the original authors. 
+This project is not affiliated with, endorsed by, or officially connected to these owners or their affiliates.
