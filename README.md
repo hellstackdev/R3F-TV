@@ -16,16 +16,16 @@
     <br />
     <a href="https://r3f-tv.vercel.app/">View Demo</a>
     &middot;
-    <a href="https://github.com/jeffrey-omega/R3F-TV/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/hellstackdev/R3F-TV/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/jeffrey-omega/R3F-TV/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/hellstackdev/R3F-TV/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
 ### Built With
 
 - [Blender](https://www.blender.org/)
-- [R3F-Vite-Starter-Template](https://github.com/jeffrey-omega/R3F-Vite-Starter-Template)
+- [R3F-Vite-Starter-Template](https://github.com/hellstackdev/R3F-Vite-Starter-Template)
 
 ## Getting Started
 
@@ -40,7 +40,7 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/jeffrey-omega/R3F-TV.git
+   git clone https://github.com/hellstackdev/R3F-TV.git
    ```
 
 2. Navigate to the project directory
